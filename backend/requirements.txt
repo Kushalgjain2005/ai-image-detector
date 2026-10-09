@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+pillow
+numpy
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
+pydantic
+tqdm
+aiofiles
+
